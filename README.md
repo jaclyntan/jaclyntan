@@ -20,7 +20,9 @@
 <br>
 
 Hi, I'm **Jaclyn** 👋 I'm a designer, artist & front-end developer from Perth, Australia.
+
 I like turning ideas into things you can use — websites, creative tools, Figma plugins, illustrations and, increasingly, things you can **print, cut & fold**.
+
 Most of what I make starts with some variation of *“I wish there was a little tool that did this…”* — and I'm very blessed to be able to turn these ideas to reality.
 
 ---
@@ -45,6 +47,7 @@ Design custom printable boxes, bags and other papercraft templates.
 ---
 
 ## ✦ Tools for designers
+
 I've made a collection of little Figma plugins over the years — mostly insired by things I wished Figma could do while I was designing.
 
 | ✿ | ✿ |
@@ -61,15 +64,12 @@ I've made a collection of little Figma plugins over the years — mostly insired
 
 ---
 
-## ✦ Other little corners of the internet
+## ✦ Other things I'm working on
 🍿 **[Minimart](https://minimart.jaclyntan.com.au/)** — my little home for snack reviews
-🐦 **Chirp** — *a super-simple transcription app is hatching for Mac...*
+
 ♡ **[The Free Gift](https://thefree.gift/)** · **[The Name](https://thename.life/)** · **[Life's Purpose](https://lifespurpose.me/)** · **[Find Hope](https://findhope.now/)**
 
----
-
-## ✦ Open source
-Some of my experiments and tools live here on GitHub for others to explore, learn from and tinker with — please check the individual repository licence for details.
+🐦 **Chirp** — *a super-simple transcription app is hatching for Mac...*
 
 ---
 
