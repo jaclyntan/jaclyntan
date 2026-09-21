@@ -17,27 +17,27 @@ Hi, I'm **Jaclyn** 👋 Designer, artist & front-end developer from Perth, Austr
 
 ---
 
-## ✦ Tools for designers
+## ✦ Live
 
 <div align="center">
 
-**[Seamless Pattern Maker](https://www.figma.com/community/plugin/1668642910840119190/seamless-pattern-maker)** · **[Slice Image](https://www.figma.com/community/plugin/1668305374605870377/slice-image)** · **[Print Style Guide](https://www.figma.com/community/plugin/1419534771797244519/print-style-guide)** · **[Glyph Explorer](https://www.figma.com/community/plugin/1255376559503953312/glyph-explorer)** · **[Text to Columns](https://www.figma.com/community/plugin/1020700094489447475/text-to-columns)** · **[Color Compass](https://www.figma.com/community/plugin/754415266574382747/color-compass)** · **[Color Overlay](https://www.figma.com/community/plugin/786223450940846289/color-overlay)**
+🧵 **[Paper Pattern Print](https://paperpatternprint.app/)** — a PWA for creating & customising printable patterned paper and booklets
 
-🌱 In the workshop: `Style Tree` · `Figma Analytics` — **[see them all →](https://www.figma.com/@jaclyntan)**
+🧩 **Figma plugins:** **[Seamless Pattern Maker](https://www.figma.com/community/plugin/1668642910840119190/seamless-pattern-maker)** · **[Slice Image](https://www.figma.com/community/plugin/1668305374605870377/slice-image)** · **[Print Style Guide](https://www.figma.com/community/plugin/1419534771797244519/print-style-guide)** · **[Glyph Explorer](https://www.figma.com/community/plugin/1255376559503953312/glyph-explorer)** · **[Text to Columns](https://www.figma.com/community/plugin/1020700094489447475/text-to-columns)** · **[Color Compass](https://www.figma.com/community/plugin/754415266574382747/color-compass)** · **[Color Overlay](https://www.figma.com/community/plugin/786223450940846289/color-overlay)** — **[see them all →](https://www.figma.com/@jaclyntan)**
 
 </div>
 
----
-
-## ✦ Things I'm working on
-🧵 **[Paper Pattern Print](https://paperpatternprint.app/)** — a PWA for creating & customising printable patterned paper and booklets
-📅 **Plan + Print + Do** · ✂️ **Print, Cut + Fold** — printable planners & papercraft templates `coming soon`
-
 <img src="assets/wren_chirp.gif" width="56" align="left" alt="Wren, Chirp's mascot, chirping">
 
-🍿 **[Minimart](https://minimart.jaclyntan.com.au/)** — my home for snack reviews　·　♡ **[The Free Gift](https://thefree.gift/)** · **[The Name](https://thename.life/)** · **[Life's Purpose](https://lifespurpose.me/)** · **[Find Hope](https://findhope.now/)**　·　🐦 **Chirp** — a transcription app hatching for Mac, with mascot **Wren**
+🐦 **[Chirp](https://github.com/jaclyntan/chirp)** — private, on-device voice dictation for Mac, with mascot **Wren**　·　🍿 **[Minimart](https://minimart.jaclyntan.com.au/)** — my home for snack reviews　·　♡ **[The Free Gift](https://thefree.gift/)** · **[The Name](https://thename.life/)** · **[Life's Purpose](https://lifespurpose.me/)** · **[Find Hope](https://findhope.now/)**
 
 <br clear="left">
+
+---
+
+## ✦ Workshop
+📅 **Plan + Print + Do** · ✂️ **Print, Cut + Fold** — printable planners & papercraft templates
+🌱 **Figma plugins:** `Style Tree` · `Figma Analytics`
 
 ---
 
