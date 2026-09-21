@@ -1,79 +1,43 @@
 <div align="center">
 
-### ✦
-
 # Jaclyn Tan
-
 ### design · code · make
 
 ✿　✦　♡　✂　`</>`　✎　✦　✿
 
 *Using paper, pixels & a little whimsy to make useful and fun things for people.*
 
-<br>
-
 ![Profile views](https://komarev.com/ghpvc/?username=jaclyntan&label=visitors&color=e8a9b8&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/jaclyntan?style=flat&label=follow&labelColor=f4e8e8&color=b8a7d9)](https://github.com/jaclyntan?tab=followers)
+
+[jaclyntan.com](https://jaclyntan.com/) · [Figma](https://www.figma.com/@jaclyntan) · [Buy me a coffee ☕](https://buymeacoffee.com/jaclyntan) · [jaclyntan02@gmail.com](mailto:jaclyntan02@gmail.com)
 
 </div>
 
 <br>
 
-Hi, I'm **Jaclyn** 👋 I'm a designer, artist & front-end developer from Perth, Australia.
-
-I like turning ideas into things you can use — websites, creative tools, Figma plugins, illustrations and, increasingly, things you can **print, cut & fold**.
-
-Most of what I make starts with some variation of *“I wish there was a little tool that did this…”* — and I'm very blessed to be able to turn these ideas to reality.
+Hi, I'm **Jaclyn** 👋 Designer, artist & front-end developer from Perth, Australia — turning *"I wish there was a little tool that did this…"* into websites, Figma plugins, illustrations, and things you can **print, cut & fold**.
 
 ---
 
 ## ✦ Currently making
-
-### 🧵 Paper Pattern Print
-A browser-based PWA for creating and customising your own printable patterned paper and booklets.
-
-[![Paper Pattern Print](https://img.shields.io/badge/✿_Try_it-Paper_Pattern_Print-f3b7c8?style=for-the-badge)](https://paperpatternprint.app/)
-
-### 📅 Plan + Print + Do
-Create customisable, printable calendars and planners spanning weeks, months and years.
-
-`✦ coming soon`
-
-### ✂️ Print, Cut + Fold
-Design custom printable boxes, bags and other papercraft templates.
-
-`✦ coming soon`
-
----
+🧵 **[Paper Pattern Print](https://paperpatternprint.app/)** — a PWA for creating & customising printable patterned paper and booklets
+📅 **Plan + Print + Do** · ✂️ **Print, Cut + Fold** — printable planners & papercraft templates `coming soon`
 
 ## ✦ Tools for designers
+**[Seamless Pattern Maker](https://www.figma.com/community/plugin/1668642910840119190/seamless-pattern-maker)** · **[Slice Image](https://www.figma.com/community/plugin/1668305374605870377/slice-image)** · **[Print Style Guide](https://www.figma.com/community/plugin/1419534771797244519/print-style-guide)** · **[Glyph Explorer](https://www.figma.com/community/plugin/1255376559503953312/glyph-explorer)** · **[Text to Columns](https://www.figma.com/community/plugin/1020700094489447475/text-to-columns)** · **[Color Compass](https://www.figma.com/community/plugin/754415266574382747/color-compass)** · **[Color Overlay](https://www.figma.com/community/plugin/786223450940846289/color-overlay)**
 
-I've made a collection of little Figma plugins over the years — mostly insired by things I wished Figma could do while I was designing.
-
-| ✿ | ✿ |
-| :--- | :--- |
-| **[Seamless Pattern Maker](https://www.figma.com/community/plugin/1668642910840119190/seamless-pattern-maker)** | **[Slice Image](https://www.figma.com/community/plugin/1668305374605870377/slice-image)** |
-| Create seamless repeating patterns | Slice images into smaller pieces |
-| **[Print Style Guide](https://www.figma.com/community/plugin/1419534771797244519/print-style-guide)** | **[Glyph Explorer](https://www.figma.com/community/plugin/1255376559503953312/glyph-explorer)** |
-| **[Text to Columns](https://www.figma.com/community/plugin/1020700094489447475/text-to-columns)** | **[Color Compass](https://www.figma.com/community/plugin/754415266574382747/color-compass)** |
-| **[Color Overlay](https://www.figma.com/community/plugin/786223450940846289/color-overlay)** | ✦ **More things in the workshop...** |
-
-🌱 **In the workshop:** `Style Tree` · `Figma Analytics`
-
-**[See everything I've made on Figma →](https://www.figma.com/@jaclyntan)**
-
----
+🌱 In the workshop: `Style Tree` · `Figma Analytics` — **[see them all →](https://www.figma.com/@jaclyntan)**
 
 ## ✦ Other things I'm working on
-🍿 **[Minimart](https://minimart.jaclyntan.com.au/)** — my little home for snack reviews
+<img src="assets/wren_chirp.gif" width="56" align="left" alt="Wren, Chirp's mascot, chirping">
 
-♡ **[The Free Gift](https://thefree.gift/)** · **[The Name](https://thename.life/)** · **[Life's Purpose](https://lifespurpose.me/)** · **[Find Hope](https://findhope.now/)**
+🍿 **[Minimart](https://minimart.jaclyntan.com.au/)** — my home for snack reviews　·　♡ **[The Free Gift](https://thefree.gift/)** · **[The Name](https://thename.life/)** · **[Life's Purpose](https://lifespurpose.me/)** · **[Find Hope](https://findhope.now/)**　·　🐦 **Chirp** — a transcription app hatching for Mac, with mascot **Wren**
 
-🐦 **Chirp** — *a super-simple transcription app is hatching for Mac...*
+<br clear="left">
 
 ---
 
-## ✦ I make things with
 ![Figma](https://img.shields.io/badge/Figma-f3b7c8?style=flat)
 ![Adobe CC](https://img.shields.io/badge/Adobe_CC-f5d6a8?style=flat)
 ![HTML](https://img.shields.io/badge/HTML-f7e8a4?style=flat)
@@ -84,17 +48,7 @@ I've made a collection of little Figma plugins over the years — mostly insired
 ![Hugo](https://img.shields.io/badge/Hugo-eabed1?style=flat)
 ![Pen + Paper](https://img.shields.io/badge/✎_Pen_+_Paper-f1c6ae?style=flat)
 
-...and most importantly, **the grace of God.** ✦
-
-<br>
-
 <div align="center">
-
-✿　✦　♡　✂　`</>`　✎　✦　✿
-
-### [jaclyntan.com](https://jaclyntan.com/) · [Figma](https://www.figma.com/@jaclyntan) · [Buy me a coffee ☕](https://buymeacoffee.com/jaclyntan)
-
-<br>
 
 *Thanks for stopping by ♡*
 
