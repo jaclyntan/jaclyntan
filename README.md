@@ -7,9 +7,6 @@
 
 *Using paper, pixels & a little whimsy to make useful and fun things for people.*
 
-![Profile views](https://komarev.com/ghpvc/?username=jaclyntan&label=visitors&color=e8a9b8&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/jaclyntan?style=flat&label=follow&labelColor=f4e8e8&color=b8a7d9)](https://github.com/jaclyntan?tab=followers)
-
 [jaclyntan.com](https://jaclyntan.com/) · [Figma](https://www.figma.com/@jaclyntan) · [Buy me a coffee ☕](https://buymeacoffee.com/jaclyntan) · [jaclyntan02@gmail.com](mailto:jaclyntan02@gmail.com)
 
 </div>
@@ -47,6 +44,9 @@ Hi, I'm **Jaclyn** 👋 Designer, artist & front-end developer from Perth, Austr
 ![WordPress](https://img.shields.io/badge/WordPress-d8c1df?style=flat)
 ![Hugo](https://img.shields.io/badge/Hugo-eabed1?style=flat)
 ![Pen + Paper](https://img.shields.io/badge/✎_Pen_+_Paper-f1c6ae?style=flat)
+
+[![Profile views](https://komarev.com/ghpvc/?username=jaclyntan&label=visitors&color=e8a9b8&style=flat)](https://github.com/jaclyntan)
+[![GitHub followers](https://img.shields.io/github/followers/jaclyntan?style=flat&label=follow&labelColor=f4e8e8&color=b8a7d9)](https://github.com/jaclyntan?tab=followers)
 
 <div align="center">
 
