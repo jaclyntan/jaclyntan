@@ -23,6 +23,10 @@ Hi, I'm **Jaclyn** 👋 Designer, artist & front-end developer from Perth, Austr
 
 🧵 **[Paper Pattern Print](https://paperpatternprint.app/)** — a PWA for creating & customising printable patterned paper and booklets
 
+📅 **[Plan + Print + Do](https://planprintdo.app/)** — a PWA for designing printable calendars & planners for any year
+
+✂️ **[Print + Cut + Fold](https://printcutfold.app/)** — a PWA for papercraft cut files: envelopes, boxes, bags & party favours
+
 🧩 **Figma plugins:** **[Seamless Pattern Maker](https://www.figma.com/community/plugin/1668642910840119190/seamless-pattern-maker)** · **[Slice Image](https://www.figma.com/community/plugin/1668305374605870377/slice-image)** · **[Print Style Guide](https://www.figma.com/community/plugin/1419534771797244519/print-style-guide)** · **[Glyph Explorer](https://www.figma.com/community/plugin/1255376559503953312/glyph-explorer)** · **[Text to Columns](https://www.figma.com/community/plugin/1020700094489447475/text-to-columns)** · **[Color Compass](https://www.figma.com/community/plugin/754415266574382747/color-compass)** · **[Color Overlay](https://www.figma.com/community/plugin/786223450940846289/color-overlay)** — **[see them all →](https://www.figma.com/@jaclyntan)**
 
 </div>
@@ -36,7 +40,6 @@ Hi, I'm **Jaclyn** 👋 Designer, artist & front-end developer from Perth, Austr
 ---
 
 ## ✦ Workshop
-📅 **Plan + Print + Do** · ✂️ **Print, Cut + Fold** — printable planners & papercraft templates
 🌱 **Figma plugins:** `Style Tree` · `Figma Analytics`
 
 ---
