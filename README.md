@@ -37,6 +37,12 @@ Hi, I'm **Jaclyn** 👋 Designer, artist & front-end developer from Perth, Austr
 
 <br clear="left">
 
+<p align="center">
+  <img src="assets/wren_flight.gif" width="64" alt="Wren flying" title="Flying">
+  <img src="assets/wren_sleep.gif" width="64" alt="Wren sleeping in a nest" title="Sleeping">
+  <img src="assets/wren_celebrate.gif" width="64" alt="Wren celebrating" title="Celebrating">
+</p>
+
 ---
 
 ## ✦ Workshop
