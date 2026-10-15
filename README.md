@@ -6,9 +6,9 @@
 
 Designer, artist & front-end developer in Perth, Australia.
 
-I make websites, Figma plugins, and things to print, cut & fold.
+[Website](https://jaclyntan.com/) · [Figma](https://www.figma.com/@jaclyntan) · [Buy me a coffee](https://buymeacoffee.com/jaclyntan)
 
-[Website](https://jaclyntan.com/) · [Figma](https://www.figma.com/@jaclyntan) · [Email](mailto:jaclyntan02@gmail.com) · [Buy me a coffee](https://buymeacoffee.com/jaclyntan)
+[Email me](mailto:jaclyntan02@gmail.com) for collabs or to say hi.
 
 </div>
 
