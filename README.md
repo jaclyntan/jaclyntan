@@ -2,6 +2,8 @@
 
 # Jaclyn Tan
 
+✿　✦　♡　✂　`</>`　✎　✦　✿
+
 Designer, artist & front-end developer in Perth, Australia.
 
 I make websites, Figma plugins, and things to print, cut & fold.
@@ -10,7 +12,7 @@ I make websites, Figma plugins, and things to print, cut & fold.
 
 </div>
 
-## Things I've made
+## Things I'm working on
 
 | Project | What it does |
 | :--- | :--- |
@@ -28,7 +30,7 @@ I make websites, Figma plugins, and things to print, cut & fold.
 
 Working on: **Style Tree** and **Figma Analytics**.
 
-## A few other corners of the internet
+## The best gift you can receive
 
 [The Free Gift](https://thefree.gift/) · [The Name](https://thename.life/) · [Life's Purpose](https://lifespurpose.me/) · [Find Hope](https://findhope.now/)
 
@@ -40,6 +42,23 @@ Working on: **Style Tree** and **Figma Analytics**.
   <img src="assets/wren_sleep.gif" width="64" alt="Wren sleeping in a nest" title="Sleeping">
   <img src="assets/wren_celebrate.gif" width="64" alt="Wren celebrating" title="Celebrating">
 </p>
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-f3b7c8?style=flat)
+![Adobe CC](https://img.shields.io/badge/Adobe_CC-f5d6a8?style=flat)
+![HTML](https://img.shields.io/badge/HTML-f7e8a4?style=flat)
+![CSS](https://img.shields.io/badge/CSS-b9dcd2?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-b8dbe8?style=flat)
+![PHP](https://img.shields.io/badge/PHP-c9bee8?style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-d8c1df?style=flat)
+![Hugo](https://img.shields.io/badge/Hugo-eabed1?style=flat)
+![Pen + Paper](https://img.shields.io/badge/✎_Pen_+_Paper-f1c6ae?style=flat)
+
+[![Profile views](https://komarev.com/ghpvc/?username=jaclyntan&label=visitors&color=e8a9b8&style=flat)](https://github.com/jaclyntan)
+[![GitHub followers](https://img.shields.io/github/followers/jaclyntan?style=flat&label=follow&labelColor=f4e8e8&color=b8a7d9)](https://github.com/jaclyntan?tab=followers)
+
+</div>
 
 <div align="center">
 
